@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1637650020 source:c:\users\nathaniel\documents\c\practice\customer billing system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1636510130 source:c:\users\nathaniel\documents\c\practice\customer billing system\icon.rc
+
+1636510130 source:c:\users\natha\documents\c\customer billing system\icon.rc
+
+1638695622 source:c:\users\natha\documents\c\customer billing system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
